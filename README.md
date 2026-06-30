@@ -1,2 +1,5 @@
 # XML-RCP-CLIENT-SERVER-DENGAN-BASIC-AUTHENTICATION-UNTUK-LAYANAN-PERHITUNGAN
 XML-RCP CLIENT-SERVER DENGAN BASIC AUTHENTICATION UNTUK MELAKUAKAN BEBERAPA LAYANAN PERHITUNGAN
+ 	
+Server Python menyediakan fungsi jarak jauh (misal get_status(), set_value()) dan client memanggilnya dengan autentikasi.
+
